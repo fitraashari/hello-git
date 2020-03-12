@@ -1,3 +1,6 @@
 Hello Git
 -coba git pertama
 -12 Maret 2020
+
+-commit ke 2
+-mantap
